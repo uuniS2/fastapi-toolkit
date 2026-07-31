@@ -1,0 +1,3 @@
+[project]
+name = "fastapi-toolkit"
+version = "0.1.0"
